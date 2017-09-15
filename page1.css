@@ -1,0 +1,408 @@
+#top{
+	position:absolute;
+    width:1505px;
+	height:31px;
+	background-color:#B2E637;
+	top:0px;
+	left:0px;
+	border:2px solid black}
+#home{
+	position:absolute;
+	width:100px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:200px;
+	text-align:center;
+	border-left:1px dashed #89A152;
+}
+#courses{
+	position:absolute;
+	width:100px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:300px;
+	border-left:1px dashed #89A152;
+	text-align:center;
+}
+#admissions{
+	position:absolute;
+	width:130px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:400px;
+    border-left:1px dashed #89A152;
+	text-align:center;
+}
+#results{
+	position:absolute;
+	width:130px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:530px;
+    border-left:1px dashed #89A152;
+	text-align:center;
+}
+#student{
+	position:absolute;
+	width:150px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:660px;
+    border-left:1px dashed #89A152;
+	text-align:center;
+}
+#center{
+	position:absolute;
+	width:110px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:810px;
+	border-left:0.5px dashed #89A152;
+	text-align:center;
+}
+#about{
+	position:absolute;
+	width:120px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:920px;
+	border-left:0.5px dashed #89A152;
+	text-align:center;
+}
+#contact{
+	position:absolute;
+	width:110px;
+	height:30px;
+	background-color:#B2E637;
+	top:0px;
+	left:1040px;
+	border-left:0.5px dashed #89A152;
+	text-align:center;
+}
+#pic{
+	position:absolute;
+	width:950px;
+	height:60px;
+	top:40px;
+	left:200px;
+	text-align:left;
+}
+#logo{
+	position:absolute;
+	width:60px;
+	height:60px;
+	top:0px;
+	left:330px;
+	border:1px none black;
+	text-align:left;
+}
+#logo1{
+	position:absolute;
+	width:360px;
+	height:60px;
+	top:0px;
+	left:390px;
+	border:1px none black;
+	text-align:left;
+}
+#google{
+	position:absolute;
+	width:75px;
+	height:60px;
+	top:0px;
+	left:750px;
+	border:1px none black;
+	text-align:left;
+}
+#chat{
+	position:absolute;
+	width:110px;
+	height:60px;
+	top:0px;
+	left:835px;
+	border:1px none black;
+	text-align:left;
+}
+#bod{
+	position:absolute;
+	width:950px;
+	height:1100px;
+	top:120px;
+	left:0px;
+	border:1px dashed black;
+}
+#body1{
+	position:absolute;
+	left:10px;
+	top:10px;
+	width:631px;
+	height:251px;
+}
+#body2{
+	position:absolute;
+	left:655px;
+	top:18px;
+	width:270px;
+	height:30px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#B2E637;
+}
+#body3{
+	position:absolute;
+	left:655px;
+	top:50px;
+	width:270px;
+	height:300px;
+	font-size:14px;
+}
+li{
+  list-style-image:url(check.jpg);
+}
+#body4{
+	position:absolute;
+	left:25px;
+	top:271px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	text-indent:2px;
+	border:2px solid #AEDB1B;
+}
+#body5{
+	position:absolute;
+	left:145px;
+	top:270px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body6{
+	position:absolute;
+	left:265px;
+	top:271px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body7{
+	position:absolute;
+	left:385px;
+	top:271px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body8{
+	position:absolute;
+	left:505px;
+	top:271px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body9{
+	position:absolute;
+	left:25px;
+	top:350px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body10{
+	position:absolute;
+	left:145px;
+	top:350px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body11{
+	position:absolute;
+	left:265px;
+	top:350px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body12{
+	position:absolute;
+	left:385px;
+	top:350px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body13{
+	position:absolute;
+	left:505px;
+	top:350px;
+	width:105px;
+	height:70px;
+	text-align:center;
+	font-size:11px;
+	font-weight:bold;
+	background-color:#D8FC60;
+	border:2px solid #AEDB1B;
+}
+#body14{
+	position:absolute;
+	left:655px;
+	top:370px;
+	width:270px;
+	height:30px;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#B2E637;
+}
+#body15{
+	position:absolute;
+	left:655px;
+	top:410px;
+	width:270px;
+	height:400px;
+	text-align:left;
+	font-size:14px;
+}
+#block1{
+	position:absolute;
+	left:10px;
+	top:440px;
+	width:330px;
+	height:30px;
+	text-align:center;
+	font-size:20px;
+	background-color:#B2E637;
+}
+#block2{
+	position:absolute;
+	left:10px;
+	top:460px;
+	width:330px;
+	height:30px;
+	text-align:left;
+	font-size:14px;
+	font-weight:normal;
+}
+#block3{
+	position:absolute;
+	left:380px;
+	top:440px;
+	width:220px;
+	height:30px;
+	text-align:center;
+	font-size:18px;
+	background-color:#B2E637;
+}
+#block4{
+	position:absolute;
+	left:380px;
+	top:460px;
+	width:220px;
+	height:250px;
+	text-align:left;
+	font-size:14px;
+	font-weight:normal;
+}
+#block5{
+	position:absolute;
+	left:380px;
+	top:720px;
+	width:220px;
+	height:30px;
+	text-align:center;
+	font-size:18px;
+	background-color:#B2E637;
+}
+#block6{
+	position:absolute;
+	left:380px;
+	top:750px;
+	width:220px;
+	height:250px;
+	text-align:left;
+	font-size:14px;
+	font-weight:normal;
+}
+#bottom{
+	position:absolute;
+    width:1505px;
+	height:220px;
+	background-color:#B2E637;
+	top:1300px;
+	left:0px;
+	border:2px solid black}
+#bottom1{
+	position:absolute;
+	width:250px;
+	height:160px;
+	left:250px;
+	top:25px;
+	background-color:yellow;
+	text-align:left;
+	font-weight:normal;
+	background-color:#B2E637;
+}
+#bottom2{
+	position:absolute;
+	width:250px;
+	height:80px;
+	left:590px;
+	top:90px;
+	background-color:yellow;
+	text-align:left;
+	font-weight:normal;
+	background-color:#B2E637;
+}
+#bottom3{
+	position:absolute;
+    width:1505px;
+	height:50px;
+	background-color:black;
+	top:1500px;
+	left:0px;
+	border:2px solid black}
